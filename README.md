@@ -1,0 +1,1 @@
+please cite this work : Zamzami, N., Himdi, H., & Sabbeh, S. F. (2023). Arabic News Classification Based on the Country of Origin Using Machine Learning and Deep Learning Techniques. Applied Sciences, 13(12), 7074. https://doi.org/10.3390/app13127074
